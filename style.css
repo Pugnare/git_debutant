@@ -1,7 +1,12 @@
-h1{
-    color :red;
-}
 
 body{
-    background-color:green;
+    background-color:#60a3bc;
+}
+
+h1{
+
+    color :white;
+    position: absolute;
+    left: 50%;
+    top: 350px;
 }
